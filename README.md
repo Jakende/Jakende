@@ -72,30 +72,11 @@ Landscape Architecture & Planning @ TUM · working across **spatial systems, urb
 
 ## Working across
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Spatial + research**  
+GeoAI · computational planning · AI-assisted decision-making · urban data · climate-resilient planning
 
-<strong>Spatial + research</strong><br><br>
-GeoAI · computational planning<br>
-AI-assisted decision-making<br>
-urban & open geodata<br>
-climate-resilient spatial planning<br>
-planning & decision support
-
-</td>
-<td width="50%" valign="top">
-
-<strong>Technology</strong><br><br>
-Python · TypeScript · React<br>
-QGIS · MapLibre · GeoPandas<br>
-FastAPI · SwiftUI<br>
-Ollama · RAG · MCP<br>
-data & AI workflows
-
-</td>
-</tr>
-</table>
+**Technology**  
+Python · TypeScript · React · QGIS · MapLibre · GeoPandas · FastAPI · SwiftUI · Ollama · RAG · MCP
 
 ## Currently exploring
 
