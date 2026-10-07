@@ -1,97 +1,113 @@
-# Jakob Endemann
+<h1 align="left">Jakob Endemann</h1>
 
 **Spatial planning × geospatial technology × AI-assisted decision-making**
 
-Landscape Architecture & Planning at the Technical University of Munich, working at the intersection of **spatial planning, geospatial data, urban systems, AI and digital tools**.
+Landscape Architecture & Planning @ TUM — building tools and exploring methods at the intersection of **spatial systems, urban data, GeoAI and human–AI decision processes**.
 
-My work explores how computational methods can support better spatial decisions — from urban context analysis and climate data to local-first AI tools, decision-support interfaces and research workflows.
+<p>
+  <img src="https://img.shields.io/badge/Spatial_Planning-333333?style=flat-square" alt="Spatial Planning">
+  <img src="https://img.shields.io/badge/GeoAI-333333?style=flat-square" alt="GeoAI">
+  <img src="https://img.shields.io/badge/Urban_Data-333333?style=flat-square" alt="Urban Data">
+  <img src="https://img.shields.io/badge/Decision_Support-333333?style=flat-square" alt="Decision Support">
+  <img src="https://img.shields.io/badge/Local--first_AI-333333?style=flat-square" alt="Local-first AI">
+</p>
 
-## Focus
+## Selected work
 
-`GeoAI & GIS` · `Urban Data` · `AI-assisted Decision Making` · `Computational Planning` · `Planning Support Systems` · `Climate Adaptation` · `Open Data` · `Human–AI Interaction`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Current interests include:
+<h3><a href="https://github.com/Jakende/ContextAnalysis">ContextAnalysis</a></h3>
 
-- AI-supported decision models for spatial planning and policy
-- explainable and traceable use of AI in planning processes
-- geospatial analysis, urban data and spatial indicators
-- computational approaches to climate-resilient urban development
-- interfaces between domain knowledge, data and AI systems
-- open, interoperable and local-first digital tools
+Multi-scale urban context analysis combining structured indicators, geodata and explicit provenance from city to streetscape.
 
-## Selected projects
+<code>GeoData</code> <code>MapLibre</code> <code>React</code> <code>Spatial Analysis</code>
 
-### [Urban Context Analysis](https://github.com/Jakende/ContextAnalysis)
+</td>
+<td width="50%" valign="top">
 
-Map-first urban context analysis across multiple spatial scales.
+<h3><a href="https://github.com/Jakende/defacing">Deface ↗</a></h3>
 
-Structured indicators combine local and live geodata for city, neighbourhood and streetscape analysis, with explicit provenance, confidence and caveats. Results can be exported as structured data, geospatial formats, graphics and reports.
+Local-first face masking and voice disguising for images and video. Processing stays in the browser.
 
-`TypeScript` `React` `MapLibre GL JS` `OpenStreetMap` `Geodata`
+<a href="https://defacing.space/"><strong>defacing.space →</strong></a>
+
+<code>Privacy</code> <code>Computer Vision</code> <code>Media Processing</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Jakende/mermaider">Mermaider</a></h3>
+
+AI-assisted diagramming and experimental decision workspace with local and hosted models, RAG and MCP integration.
+
+<code>AI</code> <code>Ollama</code> <code>RAG</code> <code>MCP</code> <code>Tauri</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Jakende/Local-Overthinker">Local Overthinker</a></h3>
+
+Native macOS tool connecting clipboard activity, semantic retrieval and local language models for contextual reflection.
+
+<code>SwiftUI</code> <code>Embeddings</code> <code>Ollama</code> <code>Local AI</code>
+
+</td>
+</tr>
+</table>
+
+### More projects
+
+[PET Raster Comparison](https://github.com/Jakende/PET-Raster-Comparison) ·
+[Transcriber](https://github.com/Jakende/Transcriber) ·
+[Relation MindMap](https://github.com/Jakende/Relation-MindMap) ·
+[Gesture Stem Workstation](https://github.com/Jakende/gesture-stem-workstation) ·
+[Urban Planner](https://github.com/Jakende/Urban-Planner)
+
+## Working across
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>Research & planning</strong><br><br>
+
+GeoAI · computational planning<br>
+AI-assisted decision-making<br>
+urban & open geodata<br>
+climate-resilient spatial planning<br>
+planning / decision support systems
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Technology</strong><br><br>
+
+Python · TypeScript · React<br>
+QGIS · MapLibre · GeoPandas<br>
+FastAPI · SwiftUI<br>
+Ollama · RAG · MCP<br>
+data & AI workflows
+
+</td>
+</tr>
+</table>
+
+## Current question
+
+> **How can geospatial data, computational methods and AI improve spatial decision-making while preserving transparency, contextual understanding and professional judgement?**
+
+Alongside development and research: **NachWuchs Landschaftsarchitektur · nexture+ · interdisciplinary and European landscape architecture networks**
 
 ---
 
-### [Mermaider](https://github.com/Jakende/mermaider)
-
-AI-assisted diagramming and decision workspace for turning complex information into structured visual models.
-
-Supports local Ollama models as well as hosted AI, conversational diagram editing, RAG-based knowledge integration and experimental decision workflows.
-
-`AI` `Ollama` `Tauri` `Mermaid` `RAG` `MCP`
-
----
-
-### [PET Raster Comparison](https://github.com/Jakende/PET-Raster-Comparison)
-
-A spatial analysis tool for comparing Physiological Equivalent Temperature scenarios on a pixel level.
-
-Built for exploring urban-climate raster data, scenario differences and spatial heat hotspots.
-
-`Python` `FastAPI` `Rasterio` `GeoTIFF` `Urban Climate`
-
----
-
-### [Local Overthinker](https://github.com/Jakende/Local-Overthinker)
-
-A local-first macOS tool for contextual reflection and knowledge retrieval while working.
-
-Clipboard fragments and notes remain on-device and are connected with semantic retrieval and local language models to surface relationships, assumptions and emerging ideas.
-
-`SwiftUI` `Ollama` `Embeddings` `Local AI`
-
-## More experiments
-
-[Transcriber](https://github.com/Jakende/Transcriber) · [Relation MindMap](https://github.com/Jakende/Relation-MindMap) · [Gesture Stem Workstation](https://github.com/Jakende/gesture-stem-workstation) · [Urban Planner](https://github.com/Jakende/Urban-Planner)
-
-These projects explore local AI, knowledge representation, data visualisation, multimodal interaction, research tooling and computational approaches to planning.
-
-## Toolbox
-
-**Spatial & data**  
-QGIS · MapLibre GL JS · GeoPandas · Rasterio · OpenStreetMap / Overpass · UMEP · D3.js
-
-**Development**  
-Python · TypeScript · JavaScript · React · FastAPI · Swift / SwiftUI · R · HTML / CSS
-
-**AI & computation**  
-Ollama · OpenAI / Codex · Whisper · RAG · Embeddings · MCP · local-first AI workflows
-
-**Planning & design**  
-Vectorworks · Rhino / Grasshopper · Adobe Creative Suite · spatial analysis · strategic planning
-
-## Research & practice
-
-A recurring question across my work is:
-
-> **How can geospatial data, computational methods and AI improve spatial decision-making without losing transparency, contextual understanding and professional judgement?**
-
-This connects my background in landscape architecture and planning with current work on **GeoAI, decision-support systems, urban data, computational planning and human–AI interaction**.
-
-Beyond software development, I work on interdisciplinary exchange, research communication and the future of planning practice — including **NachWuchs Landschaftsarchitektur**, nexture+ and European student networks in landscape architecture.
-
-## Contact
-
-**Jakob Endemann**  
-Landscape Architecture & Planning · Geospatial Technology · AI
-
-[GitHub](https://github.com/Jakende) · [projects@jakob-endemann.de](mailto:projects@jakob-endemann.de)
+<a href="mailto:projects@jakob-endemann.de">
+  <img src="https://img.shields.io/badge/Email-projects%40jakob--endemann.de-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Jakende">
+  <img src="https://img.shields.io/badge/GitHub-Jakende-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
