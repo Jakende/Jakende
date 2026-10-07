@@ -1,11 +1,10 @@
-<h1 align="left">Jakob Endemann</h1>
+# Jakob Endemann
 
 **Spatial planning × geospatial technology × AI-assisted decision-making**
 
-Landscape Architecture & Planning @ TUM — building tools and exploring methods at the intersection of **spatial systems, urban data, GeoAI and human–AI decision processes**.
+Landscape Architecture & Planning @ TUM · working across **spatial systems, urban data, GeoAI and human–AI decision processes**
 
 <p>
-  <img src="https://img.shields.io/badge/Spatial_Planning-333333?style=flat-square" alt="Spatial Planning">
   <img src="https://img.shields.io/badge/GeoAI-333333?style=flat-square" alt="GeoAI">
   <img src="https://img.shields.io/badge/Urban_Data-333333?style=flat-square" alt="Urban Data">
   <img src="https://img.shields.io/badge/Decision_Support-333333?style=flat-square" alt="Decision Support">
@@ -14,26 +13,27 @@ Landscape Architecture & Planning @ TUM — building tools and exploring methods
 
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jakende/ContextAnalysis">ContextAnalysis</a></h3>
+<strong><a href="https://github.com/Jakende/ContextAnalysis">ContextAnalysis</a></strong><br>
+<sub>Urban context analysis across city, neighbourhood and streetscape scales.</sub>
 
-Multi-scale urban context analysis combining structured indicators, geodata and explicit provenance from city to streetscape.
+<br>
 
 <code>GeoData</code> <code>MapLibre</code> <code>React</code> <code>Spatial Analysis</code>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jakende/defacing">Deface ↗</a></h3>
+<strong><a href="https://github.com/Jakende/defacing">Deface ↗</a></strong><br>
+<sub>Local-first face masking and voice disguising for images and video.</sub>
 
-Local-first face masking and voice disguising for images and video. Processing stays in the browser.
+<br>
 
-<a href="https://defacing.space/"><strong>defacing.space →</strong></a>
-
-<code>Privacy</code> <code>Computer Vision</code> <code>Media Processing</code>
+<a href="https://defacing.space/">defacing.space →</a><br>
+<code>Privacy</code> <code>Computer Vision</code> <code>Media</code>
 
 </td>
 </tr>
@@ -41,18 +41,20 @@ Local-first face masking and voice disguising for images and video. Processing s
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jakende/mermaider">Mermaider</a></h3>
+<strong><a href="https://github.com/Jakende/mermaider">Mermaider</a></strong><br>
+<sub>AI-assisted diagramming and experimental decision workspace.</sub>
 
-AI-assisted diagramming and experimental decision workspace with local and hosted models, RAG and MCP integration.
+<br>
 
 <code>AI</code> <code>Ollama</code> <code>RAG</code> <code>MCP</code> <code>Tauri</code>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jakende/Local-Overthinker">Local Overthinker</a></h3>
+<strong><a href="https://github.com/Jakende/Local-Overthinker">Local Overthinker</a></strong><br>
+<sub>Local semantic retrieval and reflection tool for macOS.</sub>
 
-Native macOS tool connecting clipboard activity, semantic retrieval and local language models for contextual reflection.
+<br>
 
 <code>SwiftUI</code> <code>Embeddings</code> <code>Ollama</code> <code>Local AI</code>
 
@@ -60,33 +62,31 @@ Native macOS tool connecting clipboard activity, semantic retrieval and local la
 </tr>
 </table>
 
-### More projects
-
-[PET Raster Comparison](https://github.com/Jakende/PET-Raster-Comparison) ·
-[Transcriber](https://github.com/Jakende/Transcriber) ·
-[Relation MindMap](https://github.com/Jakende/Relation-MindMap) ·
-[Gesture Stem Workstation](https://github.com/Jakende/gesture-stem-workstation) ·
-[Urban Planner](https://github.com/Jakende/Urban-Planner)
+<sub>
+<a href="https://github.com/Jakende/PET-Raster-Comparison">PET Raster Comparison</a> ·
+<a href="https://github.com/Jakende/Transcriber">Transcriber</a> ·
+<a href="https://github.com/Jakende/Relation-MindMap">Relation MindMap</a> ·
+<a href="https://github.com/Jakende/gesture-stem-workstation">Gesture Stem Workstation</a> ·
+<a href="https://github.com/Jakende/Urban-Planner">Urban Planner</a>
+</sub>
 
 ## Working across
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<strong>Research & planning</strong><br><br>
-
+<strong>Spatial + research</strong><br><br>
 GeoAI · computational planning<br>
 AI-assisted decision-making<br>
 urban & open geodata<br>
 climate-resilient spatial planning<br>
-planning / decision support systems
+planning & decision support
 
 </td>
 <td width="50%" valign="top">
 
 <strong>Technology</strong><br><br>
-
 Python · TypeScript · React<br>
 QGIS · MapLibre · GeoPandas<br>
 FastAPI · SwiftUI<br>
@@ -97,17 +97,21 @@ data & AI workflows
 </tr>
 </table>
 
-## Current question
+## Currently exploring
 
 > **How can geospatial data, computational methods and AI improve spatial decision-making while preserving transparency, contextual understanding and professional judgement?**
 
-Alongside development and research: **NachWuchs Landschaftsarchitektur · nexture+ · interdisciplinary and European landscape architecture networks**
+<sub>
+Landscape architecture · planning research · digital tools · interdisciplinary collaboration · research communication
+</sub>
 
 ---
 
+<p>
 <a href="mailto:projects@jakob-endemann.de">
-  <img src="https://img.shields.io/badge/Email-projects%40jakob--endemann.de-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-projects%40jakob--endemann.de-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://github.com/Jakende">
-  <img src="https://img.shields.io/badge/GitHub-Jakende-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Jakende-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
+</p>
