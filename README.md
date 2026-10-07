@@ -41,7 +41,7 @@ Landscape Architecture & Planning @ TUM · working across **spatial systems, urb
 <tr>
 <td width="50%" valign="top">
 
-<strong><a href="https://www.mermaider.jakob-endemann.de">Mermaider ↗</a></strong><br>
+<strong><a href="https://mermaider.jakob-endemann.de/website/">Mermaider ↗</a></strong><br>
 <sub>AI-assisted diagramming and experimental decision workspace.</sub>
 
 <br>
